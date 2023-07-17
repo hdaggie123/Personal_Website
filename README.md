@@ -1,2 +1,2 @@
-# Personal_Website
-A personal website I made starting as a school project and then developing it more on my own time.
+# CSCE_315_Lab
+This is my test for the readme in git 
